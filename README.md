@@ -11,7 +11,7 @@ Python 3.x
 qrcode library (You can install it using pip)
 
 Clone the repository:
-git clone https://github.com/your-username/upi-qr-generator.git
+git clone https://github.com/monish-2004/upi-qr-generator.git
 cd upi-qr-generator
 Install the required Python libraries:
 pip install qrcode[pil]
